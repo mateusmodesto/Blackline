@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "blackline-485920",
+  "private_key_id": "802d972ecf3d769e5edb9ea2ec8614cadd9d74a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDD0qnv8Tzc4hLJ\nfEs2CiYDlU89AKuz/qitOExdhkuI9wKTHX8VDvpp8svjnKnuabSeuVAwPPIuhpNJ\n0nPS/0WWqmCXsc77Wu1iPPa3nrvS1/pbQHw6yWzwaGD+SP7lyk1aDAk5cpu2+xW2\nYhjPXYrg0ZsCxzZfAJLESnh5Pu11YmLXMlMp5CXkbB2nhjNQUsjc19TvOXJNLQ0b\n+CZqFc2uZpnIreaRrneCrcpquobCsCqOojHOSmaABwz9VV+740Y0ciorFEAvRMS8\n4XKXKmHB9018Hg8xLNyvkrDh9Ziu2OxokRpE6IJNdzfP7tDk6nWoiDrwIb57BPUs\nNoEH7pENAgMBAAECggEAJR8xs2iELOxXeuYq3NjyKWI75fjTU/kd8U53nZAokBOh\nY5GnJm8TNhP+pkyr4yQbRy6inq5jC8JbuBYi+lgFkWEFlCQzNG+hiiq764W2Hetv\nDK7uDffixLVI09OzLI0b+krHUeJh1f+Ft3Aju2XEfseFbvKkYkCZ0ge7DGMLQWHa\n7aMA5szsOdvu3vH3pmEc6bZzMG7LKFbBvSyiFpRWN8nVoMK70UiErl5zrK5Su1P8\ncA2SBLJ37JNRZUVIL+T2YS1w5jochYhvpWLdotcSHxVGBeRuyclJ03PvNDvZCMNf\naqhfYX9zL7N96h6c36krRvqw0OGm8k01EwMaFz7FGQKBgQDx5zQ9gOM8VFKwbzc0\nAxc6P+9y4YVQbPqrGJow6RaYmeuQT+jnxdEX6gN1RtqF+voXKrqGXAQcisoAiMwV\nzti2CV/eip61P7gRFdTi4mjiVSf2HQ6kXsMv4k/3n4QLDznaefu2EHmeJfjNFGBr\nR0Lgd8G/afCDKUFCLr4p0uqKhQKBgQDPPATFNuSRlMDAHTCOOIYOXIx2ibrL4Vzg\nFyv21B3eHcHa98fc74ldX43O6XKWrvWVCQtCaeS6jo96KHodEaD1XseuPK5WUj8i\nEmJGgqoPP+boKLK6qMmnbdXgQewVqPfMs4wk0bhM5SJ40Hhvwi1lviwZO8kqjByI\na1ydEufm6QKBgQDMGkf5nMYeIQej1jK9r93pSAjA5YeWVF0r/5YZrpFiMHyRRts8\ns6u4gbppOV8nrJtW8LZwpzLQ4kmOKd4IiH5RGZfKLSu7wgeMYt88j8vvK+qLvfic\nt1f5Dvpp9C11J2Oo80NuWnhC98b1QjwYSAglXOYcm0ZTZHurW8UXhN5gAQKBgQCK\nqhJXE9/lOa+v3Ng8kb3BplOmjYocGfPXTinwwwYpNagdKGbngrBbdjChHru57+AL\nlT2fdtPBsNp4VtU+1ijphj3+bEQLJoVv+vUfURcRlSSge3r8QyyLh4bww6uA4srM\ngedoS5wSd8+VH4k23qsZxSIk0EhO2+nLrmsN/zSE4QKBgHjR8e+1A1aGg3dbRQsU\nyAPs2Q5Yj0SmECj5UfRr4o4ebaD5qJXOThPTg+8VQ/Sjv0gXjyk20p8E9oySc/VI\ntCoHLVDE2Q8gg6D5ogRJCwU8iDhz49NU/sqXzf2rN7Q/FA5zY/t0syAxEVX06hWT\nrKKHQ14HzhHHE6AEMl3K+chM\n-----END PRIVATE KEY-----\n",
+  "client_email": "blackline@blackline-485920.iam.gserviceaccount.com",
+  "client_id": "114421113856761869657",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/blackline%40blackline-485920.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
